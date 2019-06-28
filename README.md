@@ -7,5 +7,5 @@
 | ------ | ---------------- | ---- | ---- |
 | NRCan 11 archetypes | Original 11 archetypes developed by NRCan for program and code analysis | `NRCan-11-Archetypes` | 11 |
 | NRCan-EGH-NewHousing | Archetypes developed by NRCan for use in code analysis, using recent data from the EGH database | NRCan-EGH-NewHousing | 240 |
-|        |                  |      |      |
+| NRCan-Mobile-Archetypes | Mobile archetypes developed by NRCan for use in impact analysis of PCFs | NRCan-Mobile-Archetypes | 9 |
 
